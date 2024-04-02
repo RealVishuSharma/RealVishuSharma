@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Full Stack Web Developer with Expertise in building scalable and interactive Web Applications.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realvishusharma&label=Profile%20views&color=0e75b6&style=flat" alt="realvishusharma" /> </p>
+<p align="left"> <a href="https://twitter.com/thevishusharma" target="blank"><img src="https://img.shields.io/twitter/follow/thevishusharma?logo=twitter&style=for-the-badge" alt="thevishusharma" /></a> </p>
 
  ->🔭 I’m currently working on **inCypher.**
 
