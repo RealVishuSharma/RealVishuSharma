@@ -1,7 +1,7 @@
 ![MasterHead](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
 <h1 align="center">Hi 👋, I'm Vishu Sharma</h1>
 <h3 align="center">A passionate Full Stack Web Developer with Expertise in building scalable and interactive Web Applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realvishusharma&label=Profile%20views&color=0e75b6&style=flat" alt="realvishusharma" /> </p>
 <p align="left"> <a href="https://twitter.com/thevishusharma" target="blank"><img src="https://img.shields.io/twitter/follow/thevishusharma?logo=twitter&style=for-the-badge" alt="thevishusharma" /></a> </p>
